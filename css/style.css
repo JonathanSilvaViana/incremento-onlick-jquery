@@ -1,0 +1,22 @@
+.yv-menu-items {
+  display: flex;
+  padding: 0;
+}
+
+li {
+  list-style-type: none; 
+}
+
+.yv-items  { 
+  color: red; 
+  margin-right: 10px;
+}
+
+.yv-footer {
+  display: flex;
+  padding: 0;
+}
+
+.yv-footer .yv-selos {
+  margin-right: 10px;
+}
